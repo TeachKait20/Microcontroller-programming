@@ -23,7 +23,6 @@
 *   **`name_gif.gif`** — **Важно!** Анимированная GIF-ка, демонстрирующая, как именно должна работать готовая программа.
 
 ### Второе полугодие
-(Работа 1.)[https://open-space-1.yonote.ru/share/7500c8d9-9c4f-4de2-89c1-df13a03bcfbd]
+[Работа 1.](https://open-space-1.yonote.ru/share/7500c8d9-9c4f-4de2-89c1-df13a03bcfbd)
 
-(Работа 2.)[https://open-space-1.yonote.ru/share/87d5f94f-893e-481c-b878-487175c85d3f]
-
+[Работа 2.](https://open-space-1.yonote.ru/share/87d5f94f-893e-481c-b878-487175c85d3f)
