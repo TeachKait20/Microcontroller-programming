@@ -24,4 +24,4 @@
 
 ### Второе полугодие
 
-https://open-space-1.yonote.ru
+[https://open-space-1.yonote.ru](https://open-space-1.yonote.ru/share/7500c8d9-9c4f-4de2-89c1-df13a03bcfbd)
